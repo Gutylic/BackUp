@@ -1,0 +1,10 @@
+
+ALTER proc [dbo].[Back_UP]
+as
+Backup database Primero
+To disk = 'Z:\Ejercicios.bak'
+with
+Name='Ejercicios nuevos',
+Description='Host Local'
+
+---------- cambiar Primero por VPS_Ejercicios, cambiar alter por create y va como procedimiento en VPS_Ejercicio

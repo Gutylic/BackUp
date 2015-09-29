@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="VPS_Ejercicios" Class="DataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=GUSTAVO;Initial Catalog=VPS_Ejercicios;Integrated Security=True" SettingsObjectName="Copia_De_Respaldo.Properties.Settings" SettingsPropertyName="VPS_EjerciciosConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.Back_Up" Method="Back_Up">
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

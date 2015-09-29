@@ -1,0 +1,9 @@
+C:\Users\Guty\Desktop\BackUp\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respaldo.exe.config
+C:\Users\Guty\Desktop\BackUp\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.csprojResolveAssemblyReference.cache
+C:\Users\Guty\Desktop\BackUp\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.Crear_BackUp.resources
+C:\Users\Guty\Desktop\BackUp\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.Properties.Resources.resources
+C:\Users\Guty\Desktop\BackUp\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.csproj.GenerateResource.Cache
+C:\Users\Guty\Desktop\BackUp\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respaldo.exe
+C:\Users\Guty\Desktop\BackUp\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respaldo.pdb
+C:\Users\Guty\Desktop\BackUp\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.exe
+C:\Users\Guty\Desktop\BackUp\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.pdb
