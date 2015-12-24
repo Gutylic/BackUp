@@ -7,3 +7,16 @@ C:\Users\Guty\Desktop\BackUp\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respald
 C:\Users\Guty\Desktop\BackUp\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respaldo.pdb
 C:\Users\Guty\Desktop\BackUp\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.exe
 C:\Users\Guty\Desktop\BackUp\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.pdb
+C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respaldo.exe.config
+C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.exe
+C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.pdb
+C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respaldo.exe
+C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respaldo.pdb
+C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.csprojResolveAssemblyReference.cache
+C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.Crear_BackUp.resources
+C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.Properties.Resources.resources
+C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.csproj.GenerateResource.Cache
+C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respaldo.exe.manifest
+C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respaldo.application
+C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.exe.manifest
+C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.application
