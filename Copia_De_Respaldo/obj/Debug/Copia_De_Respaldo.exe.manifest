@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Copia_De_Respaldo.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Copia_De_Respaldo.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Copia_De_Respaldo" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -42,24 +42,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Copia_De_Respaldo.exe" size="242176">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Copia_De_Respaldo.exe" size="241664">
       <assemblyIdentity name="Copia_De_Respaldo" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ua+MHvAyua0vDCorD0L0DHp8ZTuNXCU38dC/3vqOdKE=</dsig:DigestValue>
+        <dsig:DigestValue>FihV0yCMI7rotO0p4Fj98dWHV/+tGh1VvWNtCGVte4M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Copia_De_Respaldo.exe.config" size="550">
+  <file name="Copia_De_Respaldo.exe.config" size="542">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>hs0zuSNW5i9CR9v5w9OXzz0X0ePpiQRdjsgwQ9AQMXw=</dsig:DigestValue>
+      <dsig:DigestValue>Qfw50dwgf2bemto6KsGQjuFIkd271mvFP0ChFCly+7Y=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

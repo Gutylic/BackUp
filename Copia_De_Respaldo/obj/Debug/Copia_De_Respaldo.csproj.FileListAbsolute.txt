@@ -20,3 +20,16 @@ C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respaldo.exe.m
 C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respaldo.application
 C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.exe.manifest
 C:\Users\Mara\Desktop\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.application
+C:\Users\Gustavo\Documents\GitHub\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respaldo.exe.config
+C:\Users\Gustavo\Documents\GitHub\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.exe
+C:\Users\Gustavo\Documents\GitHub\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.pdb
+C:\Users\Gustavo\Documents\GitHub\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respaldo.exe.manifest
+C:\Users\Gustavo\Documents\GitHub\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respaldo.application
+C:\Users\Gustavo\Documents\GitHub\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respaldo.exe
+C:\Users\Gustavo\Documents\GitHub\BackUp\Copia_De_Respaldo\bin\Debug\Copia_De_Respaldo.pdb
+C:\Users\Gustavo\Documents\GitHub\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Documents\GitHub\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.Crear_BackUp.resources
+C:\Users\Gustavo\Documents\GitHub\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.Properties.Resources.resources
+C:\Users\Gustavo\Documents\GitHub\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Documents\GitHub\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.exe.manifest
+C:\Users\Gustavo\Documents\GitHub\BackUp\Copia_De_Respaldo\obj\Debug\Copia_De_Respaldo.application
